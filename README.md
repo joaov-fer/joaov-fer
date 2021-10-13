@@ -25,9 +25,14 @@
   
  #### Outros
 <div style="display: inline_block"><br>
-<img align="center" height="30" width="115" src="https://i.imgur.com/BtbTBJu.png">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg">
+<img align="center" height="30"  src="https://i.imgur.com/BtbTBJu.png">
+
+ <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg">
+  
+  <img align="center" height="30"  src="https://help.tableau.com/current/blueprint/pt-br/Resources/tableau-logo.png">
 <div>
+<div>
+
 
  #### Social
 
