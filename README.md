@@ -1,4 +1,4 @@
-## Olá, eu sou a João Vitor
+## Olá, eu sou o João Vitor
 <!-- <div align="center">
   <a href="https://github.com/joaov-fer">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaov-fer&layout=compact&langs_count=7&theme=dracula"/>
